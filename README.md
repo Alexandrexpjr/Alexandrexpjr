@@ -1,11 +1,10 @@
-# Hi there, I'm [Alexandre](alexandrexpjr.github.io) 😉
+# Hi there, I'm [Alexandre](https://alexandrexpjr.github.io) 😉
 
 ## About me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandrexpj@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandrepimenteljr
-)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](alexandrexpjr.github.io)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://alexandrexpj@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrepimenteljr)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://alexandrexpjr.github.io)
 
 I live in Belo Horizonte, capital of Minas Gerais, Brazil. I am currently studying at Trybe, in the Back-end module. i learned Javascript, HTML5, CSS, React and i am currently learning python, beyond the trybe content. If you want to talk to me, search for @alexandrexpjr on any social media.
 
