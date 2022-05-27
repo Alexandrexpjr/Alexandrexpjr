@@ -1,4 +1,4 @@
-# Hi there, I'm [Alexandre](https://alexandrexpjr.github.io) 😉
+# Hi there, I'm Alexandre 😉
 
 ## About me
 
