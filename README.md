@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrepimenteljr)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://alexandrexpjr.github.io)
 
-I live in Belo Horizonte, capital of Minas Gerais, Brazil. I am currently studying at Trybe, in the Back-end module. i learned Javascript, HTML5, CSS, React and i am currently learning python, beyond the trybe content. If you want to talk to me, search for @alexandrexpjr on any social media.
+I live in Belo Horizonte, capital of Minas Gerais, Brazil. I am non-practicing chemical engineer 😆 and fullstack developer graduated from Trybe. If you want to talk to me, search for @alexandrexpjr on any social media.
 
 ### Programming Languages and Frameworks
 
