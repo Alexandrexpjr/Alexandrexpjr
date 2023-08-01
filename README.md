@@ -4,7 +4,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://alexandrexpj@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrepimenteljr)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://alexandrexpjr.github.io)
 
 I live in Belo Horizonte, capital of Minas Gerais, Brazil. I am non-practicing chemical engineer 😆 and fullstack developer graduated from Trybe. If you want to talk to me, search for @alexandrexpjr on any social media.
 
